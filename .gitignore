@@ -1,0 +1,12 @@
+# Node modules
+node_modules/
+package-lock.json
+
+# macOS files
+.DS_Store
+
+# Sensitive files
+.whatsapp-lock
+
+# Generated app
+WhatsAppLauncher.app/
